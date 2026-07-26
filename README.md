@@ -1,2 +1,0 @@
-# mycode
-kill switch
